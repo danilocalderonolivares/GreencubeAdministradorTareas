@@ -1,0 +1,20 @@
+body {
+  padding: 10px 55px 10px 55px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.mainForm {
+  
+    max-width: 856px;
+}
+.costunTable th{
+      padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left; 
+    background-color: #2ba646;
+    border-color: #1e7e34;
+    color: white;
+}
+#num{
+  width: 15%;
+}
